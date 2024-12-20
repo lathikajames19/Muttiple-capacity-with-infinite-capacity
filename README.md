@@ -20,7 +20,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
-![WhatsApp Image 2024-12-20 at 14 28 43_42ed4580](https://github.com/user-attachments/assets/088dffd4-5fc8-46a3-bdcd-57b4449d09a4)
+![Screenshot 2024-12-20 143359](https://github.com/user-attachments/assets/f736b6e5-7d99-447b-ab46-bb6e4f40e7a2)
 
 
 ## Program:
